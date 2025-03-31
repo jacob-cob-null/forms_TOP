@@ -28,7 +28,8 @@ body {
 
 .side-img {
   flex: 3;
-  background-color: rgb(46, 53, 59);
+  background-image: url(pic1.jfif);
+  background-size: cover;
 }
 
 .side-form {
